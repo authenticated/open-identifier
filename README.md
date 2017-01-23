@@ -23,7 +23,7 @@ Open Identifier serves to provide the following functions:
 
 By using Open Identifier, advertisers and publishers add an open identifier tag to their web page.  An IFRAME is created, and a script runs to check which platforms have already synced with Open Identifier.  Up to five additional platforms are sync'ed inside the IFRAME, so the platform cannot use referrer data to see which site the user is visiting. 
 
-## Cookie Mapping
+## User Mapping
 
 Currently, the way that this is solved is through a process called "cookie mapping".  The process of cookie mapping is as follows:
 
