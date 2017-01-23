@@ -6,9 +6,17 @@ Open Identifier is a project which attempts to solve an issue which plagues the 
 
 Open Identifier serves to provide the following functions:
 
+Identification
+
+* Use latest technologies to provide a consistent fingerprinting of users
+* Respect "do not track" functionality standards
+* Maintain multiple IDs for different fingerprinting methodoligies
+
+Mapping
+
 * Anonomize user identification, therefore providing a guarantee that customer data is kept solely with the owner
 * Simplify the process of cookie mapping by an ad platform - one map to Open Identifier is all that is needed
-* Increase the percentage of visitors identified, by (hopefully) consolidating on a open source, agnostic domain for identification purposes - no need to map to multiple providers
+* Reduce data leakage by reducing the number of mappings needed for a full bid transaction to be executed
 * Reduce web traffic, thus making pages serve faster
 
 ## Anonomize User Identification
