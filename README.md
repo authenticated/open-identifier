@@ -56,7 +56,10 @@ There is nothing stored on any server that powers the Open Identifier domain.
 The format of the user ID is as follows:
 
 ```
-[id]_[partner_p1]|[p1_create_dt]|[partner_p2]|[p2_create_dt]|...
+id = [id1]_[id2]_[id3]...x
+p = [partner_p1]|[p1_last_sync_dt]_[partner_p2]|[p2_last_sync_dt]|...
+```
+
 
 The code that is running on the domain is included in this project, and is open source, with the MIT license.
 
